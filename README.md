@@ -1,4 +1,5 @@
 # Image-Gallery
+https://chaitanya-works.github.io/Image-Gallery/
 Image showcase project with animations made using HTML and CSS. It is responsive.
 
 
